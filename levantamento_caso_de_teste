@@ -1,0 +1,15 @@
+validar cadastro realizado com sucesso
+validar nome em branco
+validar CPF invalido 
+validar CPF em branco
+validar CPF incompleto
+validar data de nascimento invalida
+validar data de nascimento acima do dia atual
+validar ddd invalido 
+validar numero de telefone incompleto
+validar numero de telefone incorreto
+validar email invalido 
+validar email incompleto
+validar senha incompleta
+validar senha incorreta 
+validar confirmação de senha incorreta 
